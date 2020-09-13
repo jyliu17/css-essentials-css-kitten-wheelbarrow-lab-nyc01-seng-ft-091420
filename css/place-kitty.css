@@ -9,7 +9,8 @@
 }
 
 /* Select the image with id of kitty-2 */
-.kitty-2
+.kitty-2.png
+
 /*__write_selector_here__*/ {
   position: absolute;
   z-index: 2;
